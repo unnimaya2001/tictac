@@ -1,0 +1,3 @@
+This is a simple Tic Tac Toe game developed using html,css and javascript.This shows a message when a player wins and when the game become draw.We can restart the game anytime we want by clicking on the restart button .A new game can be started after each game by clicking on the new game button.
+Even though it is a simple game i was able to study many concepts in javascript by doing this project.
+git add
